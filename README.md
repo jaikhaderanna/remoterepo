@@ -1,0 +1,2 @@
+# remoterepo
+for git training
